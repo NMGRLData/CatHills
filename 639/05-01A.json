@@ -2,7 +2,7 @@
     "aliquot": 1, 
     "analysis_type": "unknown", 
     "collection_version": "0.1:0.1", 
-    "comment": "110.36 mg", 
+    "comment": "102.38 mg", 
     "commit": "a8c2af6c8457fcd1d6947930b4f67826a0776876", 
     "detectors": {
         "AX": {
@@ -31,11 +31,11 @@
         }
     }, 
     "extraction": "", 
-    "identifier": "63906", 
-    "increment": null, 
+    "identifier": "63905", 
+    "increment": 0, 
     "irradiation": "NM-278", 
     "irradiation_level": "J", 
-    "irradiation_position": 2, 
+    "irradiation_position": 1, 
     "isotopes": {
         "Ar36": {
             "classification": null, 
@@ -74,9 +74,9 @@
     "project": "CatHills", 
     "queue_conditionals_name": "", 
     "repository_identifier": "CatHills", 
-    "sample": "NMCH-14", 
+    "sample": "NMCH-11", 
     "spec_sha": "7e844deec9697c69c2864e6c8b0d64196a4a1f05", 
-    "timestamp": "2015-11-29T09:42:59", 
+    "timestamp": "2015-11-29T09:33:58", 
     "username": "root", 
-    "uuid": "e18ab74d-d150-4f99-baec-46c12d86e5a9"
+    "uuid": "386aa14a-2bbb-4e48-abed-0fa6cc0aa790"
 }
